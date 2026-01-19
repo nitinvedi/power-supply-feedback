@@ -1,4 +1,4 @@
-# PowerFeedback - Campus Energy Management System
+# PowerFeedback - Energy Management System
 
 A full-stack web application designed for managing and submitting feedback regarding power supply and energy issues on campus. This system facilitates communication between users and administrators to ensure efficient resolution of power-related concerns.
 
